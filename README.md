@@ -1,7 +1,7 @@
 ## Private Enterprise Network in Cisco Packet Tracer
 
 ## Description
-This project is intended to replicate a real world Enterprise Office Network in Cisco Packet Tracer. At completion, this project will allow me to garner hands-on exposure to NAT, DHCP, DNS, TACACS+, VLANs, and Wireless Infrastructure in Cisco Packet Tracer. These are key topics/technologies in networking and will better prepare for taking the CCNA.
+This project is intended to replicate a real world Enterprise Office Network in Cisco Packet Tracer. At completion, this project will allow me to garner hands-on exposure to NAT, DHCP, DNS, TACACS+, VLANs, and Wireless Infrastructure in Cisco Packet Tracer. These are key topics/technologies in networking and will better prepare me for taking the CCNA.
 
 ## General Network Requirements:
 - 3 departments distributed across 3 floors with their own subnet and traffic isolation
